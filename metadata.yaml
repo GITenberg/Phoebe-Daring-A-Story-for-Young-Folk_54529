@@ -1,0 +1,47 @@
+_repo: Phoebe-Daring-A-Story-for-Young-Folk_54529
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nuyttens, Josef Pierre
+    aliases:
+    - Nuyttens, Joseph Pierre
+    - Nuyttens, Pierre
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '6436'
+    url: http://www.gutenberg.org/2009/agents/6436
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Hugh
+    - Fitzgerald, Capt. Hugh
+    - Baum, Lyman Frank
+    - Staunton, Schuyler
+    - Akers, Floyd
+    - Van Dyne, Edith
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    - Cooke, John Estes
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2017-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- GITenberg
+title: 'Phoebe Daring: A Story for Young Folk'
+url: http://www.gutenberg.org/ebooks/54529
